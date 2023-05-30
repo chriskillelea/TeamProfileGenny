@@ -1,1 +1,1 @@
-# TeamProfileGenny
+Team Profile Generator
